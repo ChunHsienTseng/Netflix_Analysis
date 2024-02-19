@@ -22,13 +22,13 @@ This Tableau data visualization explores the analysis of Netflix movies and show
 
 - Filtering - Users can interactively filter to choose different movie by name or type
 
-## Screenshots
-
- - https://imgur.com/a/pm0YRqz
-
 ## Data Sources
 
 - The visualization is based on the dataset analyzed in the accompanying data analysis project.
+
+## Screenshots
+
+ - https://imgur.com/a/pm0YRqz
 
 ## Visulization Link
 
