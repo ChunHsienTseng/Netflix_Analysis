@@ -6,25 +6,25 @@ This Tableau data visualization explores the analysis of Netflix movies and show
 
 ## Key Visualizations
 
-1. Geographic Distribution:
+**Geographic Distribution**
    - World map showing the count of movies and shows displayed in each country.
 
-2. Ratings Analysis:
+**Ratings Analysis**
    - Bar chart displaying the frequency distribution of ratings.
 
-3. Genre Breakdown:
+**Genre Breakdown**
    - Bar chart showcasing the count of movies and shows by genre.
 
-4. Temporal Analysis:
-   - Area chart illustrating the count of movies and shows released each year.
+**Temporal Analysis****
+  - Area chart illustrating the count of movies and shows released each year.
 
 ## Interactivity and Features
 
-- Filtering: Users can interactively filter to choose different movie by name or type
+- Filtering - Users can interactively filter to choose different movie by name or type
 
 ## Screenshots
 
-https://imgur.com/a/pm0YRqz
+ - https://imgur.com/a/pm0YRqz
 
 ## Data Sources
 
